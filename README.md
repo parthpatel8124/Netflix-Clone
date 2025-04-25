@@ -15,8 +15,8 @@ A simple Netflix clone built using HTML and CSS. This project replicates the bas
 ## Project Structure 📁
 ```
 Netflix-Clone/
-├── index.html  # Main HTML file
-├── style.css   # Stylesheet for the project
+├── Netflix.html  # Main HTML file
+├── Netflix.css   # Stylesheet for the project
 ├── assets/  # Contains background and logo images and Contains the featured movie trailer
 └── README.md   # Project documentation
 ```
@@ -30,7 +30,7 @@ Netflix-Clone/
    ```sh
    cd netflix-clone
    ```
-3. **Open `index.html` in a Browser**
+3. **Open `Netflix.html` in a Browser**
    - You can open it directly by double-clicking the file or using Live Server in VS Code.
 
 ## Screenshot 🖼️
